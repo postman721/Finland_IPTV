@@ -50,12 +50,17 @@ To run the Finland IPTV player, use the following command:
 
 ```bash 
 
-python3 tv.py ```
+python3 tv.py
+```
 
 ### How to Use
 
 - Select a Channel: Choose a channel from the dropdown menu. Please note that channels do not play automatically upon selection.
-  This can be changed by placing 1 to: ```bash self.channel_combo.setCurrentIndex(0)```
+  This can be changed by placing 1 to:
+
+  ```bash
+  self.channel_combo.setCurrentIndex(0)
+  ```
 
 - Playback: The selected channel will begin streaming. If the stream doesn't load, try selecting another channel and then returning to your initial choice.
 
