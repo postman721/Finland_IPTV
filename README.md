@@ -73,7 +73,7 @@ python3 tv.py
 
 <b> Notice. In the case of Yle TV1: You will first need to select something else and then reselect it for viewing. </b>
 
-In case of any error happening in the program you might see something like this: ![error](https://github.com/user-attachments/assets/78187f6c-4ecc-4774-8501-657d69126785)
+In case of an error happening in the program you might see something like this: ![error](https://github.com/user-attachments/assets/78187f6c-4ecc-4774-8501-657d69126785)
 
 
 
