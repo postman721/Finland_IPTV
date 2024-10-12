@@ -9,6 +9,8 @@ This is free software, and you are welcome to redistribute it under GPL Version 
 
 **Finland IPTV v.1.0** is a lightweight PyQt5-based IPTV player for streaming free Finland IPTV channels. The application downloads an M3U playlist in Markdown format, parses the channel list, and provides a graphical interface for users to select and play channels.
 
+![tv](https://github.com/user-attachments/assets/eec172ec-d0bd-43d9-a889-669c2f691b8a)
+
 This app is specifically designed for simplicity, providing a dropdown list of channels and supporting full-screen playback. Channels are freely available, and the source list is regularly updated from: [Free-TV IPTV GitHub Repository](https://github.com/Free-TV/IPTV).
 
 ## Features
@@ -71,7 +73,7 @@ python3 tv.py
 
 <b> Notice. In the case of Yle TV1: You will first need to select something else and then reselect it for viewing. </b>
 
-
+In case of any error happening in the program you might see something like this: ![error](https://github.com/user-attachments/assets/78187f6c-4ecc-4774-8501-657d69126785)
 
 
 
