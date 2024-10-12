@@ -40,6 +40,7 @@ sudo apt-get update
 
 sudo apt-get install python3 python3-pip python3-pyqt5 python3-pyqt5.qtmultimedia python3-requests ```
 
+```
 
 Alternatively: pip3 install PyQt5 requests 
 
