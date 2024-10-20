@@ -40,13 +40,15 @@ Use the following commands to install the required dependencies:
 ```bash
 sudo apt-get update
 
-sudo apt-get install python3 python3-pip python3-pyqt5 python3-pyqt5.qtmultimedia python3-requests ```
+sudo apt-get install python3 python3-pip python3-pyqt5 python3-pyqt5.qtmultimedia python3-requests -y
+ 
+sudo apt-get install gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav -y
+
+sudo apt-get install gstreamer1.0-tools gstreamer1.0-x gstreamer1.0-alsa gstreamer1.0-pulseaudio -y
 
 ```
 
-Alternatively: pip3 install PyQt5 requests 
-
-### Running
+### Running on Linux
 
 To run the Finland IPTV player, use the following command:
 
@@ -54,6 +56,9 @@ To run the Finland IPTV player, use the following command:
 
 python3 tv.py
 ```
+
+## For Windows: See the windows_binary folder.
+
 
 ### How to Use
 
