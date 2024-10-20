@@ -58,7 +58,7 @@ python3 tv.py
 ```
 
 ## For Windows: See the windows_binary folder.
-
+Remember to allow execution from file's properties on Windows. Otherwise Windows will block it as a potentially risky file. 
 
 ### How to Use
 
