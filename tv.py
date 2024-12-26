@@ -158,7 +158,7 @@ class IPTVApp(QWidget):
                 color: #FFFFFF;
             }
             QComboBox QAbstractItemView {
-                background-color: #FFFFFF;  /* White background for dropdown items */
+                background-color: blue;  /* White background for dropdown items */
                 selection-background-color: #57697C;  /* Slightly lighter for selected items */
                 selection-color: #FFFFFF;  /* White text when selected */
                 color: #000000;  /* Black text for unselected items */
